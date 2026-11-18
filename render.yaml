@@ -1,0 +1,7 @@
+services:
+  - type: web
+    name: dynamic-deployment-demo
+    env: node
+    rootDir: dynamic-site
+    buildCommand: npm install
+    startCommand: npm start
