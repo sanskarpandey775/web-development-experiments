@@ -1,4 +1,7 @@
-# MERN capstone application
+
+
+## Branching experiment
+This change was made on the feature/update-about branch for the GitHub branching and merging experiment.# MERN capstone application
 
 This folder contains a working MERN-style notes application skeleton with React client code and an Express/Mongoose server.
 
